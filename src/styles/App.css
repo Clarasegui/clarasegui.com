@@ -5,11 +5,25 @@
   src: url('../fonts/static/Lora-Regular.ttf') format('ttf');
 }
 
-
 /* PAGE */
 
 body {
-margin: 0 30px 10px 30px 
+  margin: 0 30px 10px 30px 
+}
+
+p {
+  margin: 40px;
+}
+
+/* LIENS */
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFBCD4;
 }
 
 .App {
