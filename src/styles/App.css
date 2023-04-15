@@ -1,0 +1,19 @@
+/* POLICES */
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/static/Lora-Regular.ttf') format('ttf');
+}
+
+
+/* PAGE */
+
+body {
+margin: 0 30px 10px 30px 
+}
+
+.App {
+  font-family: 'Lora-Regular';
+  color:black;
+  text-align: center;
+}
